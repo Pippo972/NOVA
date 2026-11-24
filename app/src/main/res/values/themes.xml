@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Nova" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/nova_blue</item>
+        <item name="colorPrimaryVariant">@color/nova_navy</item>
+        <item name="colorSecondary">@color/nova_accent</item>
+        <item name="android:statusBarColor">@color/nova_navy</item>
+        <item name="android:windowBackground">@color/nova_bg</item>
+        <item name="fontFamily">@font/outfit_semibold</item>
+        <item name="android:fontFamily">@font/outfit_semibold</item>
+    </style>
+    <style name="Theme.Nova.Splash">
+        <item name="android:windowBackground">@color/nova_navy</item>
+    </style>
+</resources>
